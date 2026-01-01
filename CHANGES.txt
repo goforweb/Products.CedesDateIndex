@@ -1,0 +1,12 @@
+Changelog
+=========
+
+1.1 (2018-11-10)
+----------------
+- Eggified package.
+
+1.0 (2018/01/01)
+----------------
+
+- Package created using templer
+  []
